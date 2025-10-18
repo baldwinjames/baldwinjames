@@ -20,7 +20,7 @@ I currently lead the CX team at Rewind where I have a heavy focus on AI, process
 
 ## Connect
 
-[LinkedIn]((https://www.linkedin.com/in/baldwinjames/)) | [Email](mailto:james.baldwin@rewind.io)
+[LinkedIn](https://www.linkedin.com/in/baldwinjames/) | [Email](mailto:james.baldwin@rewind.io)
 
 ---
 
