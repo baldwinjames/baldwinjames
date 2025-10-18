@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm James Baldwin</h1>
-<h3 align="center">I'm a CX leader who loves to build cool stuff with AI</h3>
+# Hi, I'm James 👋
 
-- :canada: I'm based outside of Toronto, ON, Canada (Go Leafs Go!)
+## About Me
 
-- :computer: I specialize in Excel, SQL, Tableau and Python
-<br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/baldwinjames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baldwinjames" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I currently lead the CX team at Rewind where I have a heavy focus on AI, process optimization and general effiency improvements. 
+
+## What I'm Working On
+
+🤖 Building internal AI capabilities and automation workflows  
+🔧 Developing MCP (Model Context Protocol) integrations  
+📊 Creating AI governance frameworks and ROI measurement systems  
+⚡ Automating business processes with n8n and Claude Skills  
+
+## Interests
+
+- AI strategy & operations
+- Process automation & workflow design
+- Customer experience optimization
+- Knowledge base architecture
+
+## Connect
+
+[LinkedIn]((https://www.linkedin.com/in/baldwinjames/)) | [Email](mailto:james.baldwin@rewind.io)
+
+---
+
+_Most of my recent work is in private repositories, but I'm passionate about advancing practical AI adoption in B2B SaaS._
