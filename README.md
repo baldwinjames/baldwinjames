@@ -2,12 +2,12 @@
 
 ## About Me
 
-I currently lead the CX team at Rewind where I have a heavy focus on AI, process optimization and general effiency improvements. 
+I currently lead the AI adoption and strategy at Rewind after having spent more than a decade building and leading Customer Support and Customer Experience teams.
 
 ## What I'm Working On
 
 🤖 Building internal AI capabilities and automation workflows  
-🔧 Developing MCP (Model Context Protocol) integrations  
+🔧 Developing MCP integrations  
 📊 Creating AI governance frameworks and ROI measurement systems  
 ⚡ Automating business processes with n8n and Claude Skills  
 
@@ -24,4 +24,4 @@ I currently lead the CX team at Rewind where I have a heavy focus on AI, process
 
 ---
 
-_Most of my recent work is in private repositories, but I'm passionate about advancing practical AI adoption in B2B SaaS._
+_Most of my recent work is in private repositories, but I'm passionate about advancing practical AI adoption in the B2B SaaS space._
