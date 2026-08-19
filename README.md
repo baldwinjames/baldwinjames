@@ -2,7 +2,7 @@
 
 ## About Me
 
-I currently lead the AI adoption and strategy at Rewind after having spent more than a decade building and leading Customer Support and Customer Experience teams.
+I am an AI Agent Architect at Airtable, previously led AI Strategy & Operations at Rewind after spending more than a decade building and leading Customer Support & Experience teams.
 
 ## What I'm Working On
 
